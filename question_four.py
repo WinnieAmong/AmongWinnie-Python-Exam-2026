@@ -4,10 +4,10 @@
 
 # Object _oriented Programming is a programming paradym that deals with classes and objects
 
-# Why OOP is important in Software
-# Resuability: oop enables using of the same code
-# it allows use of attributes and behaviours together in one code initiated
-# it makes code readable and easy to understand
+Why OOP is important in Software
+Resuability: oop enables using of the same code
+it allows use of attributes and behaviours together in one code initiated
+it makes code readable and easy to understand
 
 
 # question 4(iii)
@@ -44,3 +44,4 @@ class Laptop():
         return msg
     laptop1 = Laptop("Lenovo", "itel", 300000)
 print(laptop1)
+
