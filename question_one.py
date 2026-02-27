@@ -45,5 +45,6 @@ print(f"Smallest: {small_value}")
 
 
 # Question1(iii) 
-student_record = {"name": "Grace Nakato", "score": 80, "grade": "B"}
+student_record = {"name": "Grace Nakato", "score": 95, "grade": "B", "school": "WITI"}
+print(student_record)
 
