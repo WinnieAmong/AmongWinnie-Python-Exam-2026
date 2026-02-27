@@ -2,7 +2,7 @@
 
 # qusetion 4(i)
 
-# Object _oriented Programming is a programming paradym that deals with classes and objects
+Object _oriented Programming is a programming paradym that deals with classes and objects
 
 Why OOP is important in Software
 Resuability: oop enables using of the same code
