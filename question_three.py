@@ -1,7 +1,7 @@
 # Question3(i)
 # enter the year of birth of the user
 age = int(input("Year of Birth: "))
-#check if tthe user is 18 years and above for the year of birth given and prints the ouput
+# check if tthe user is 18 years and above for the year of birth given and prints the ouput
 if age >= 18:
     print("You are eligible to Vote")
 else:
@@ -45,15 +45,13 @@ def classify_student(Score):
 
  elif Score < 50:
         return "Fail"
- 
 
-#if the input is not a valid number
+
+# if the input is not a valid number
 print(classify_student("Ninety"))
 
 
-
-#If input is a valid score
+# If input is a valid score
 print(classify_student(60))
-
 
 
